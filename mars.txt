@@ -3,14 +3,4 @@ Cold and dry, but everything is my favorite color.
 The two moons may be a problem for Wolfman.
 
 But the mummy will appreciate the lack of humidity. 
-
-<<<<<<< HEAD
-=======
-An ill-considered change. 
-
-We will need to manufacture our own oxygen.
-
-Test
-
-Collaborator is making a change.
->>>>>>> f30e36199e680aa1f49ff07f1e8ce5a0f3d1ec6e
+Add a line that both owner and collaborator like. 
